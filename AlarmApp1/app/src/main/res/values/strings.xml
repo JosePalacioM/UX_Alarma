@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="app_name2">ALARMA CON RECORDATORIOS</string>
+    <string name="mail">  Correo</string>
+    <string name="password">  Contraseña</string>
+    <string name="confirm_password">  Confirmar contraseña</string>
+    <string name="question1">No tienes cuenta?</string>
+    <string name="registrate">Registrarte</string>
+    <string name="question2">Olvidaste tu contraseña?</string>
+
+    <string name="question3">Ya tienes cuenta?</string>
+    <string name="ingresar">Ingresar</string>
+
+    <string name="alarmas">Alarmas</string>
+    <string name="hora">11:13:42</string>
+    <string name="pm">p.m.</string>
+    <string name="horaAlarma1">5:30 a.m.</string>
+    <string name="textoAlarma1">A despertar, dom. lun. mar. mie. jue.</string>
+    <string name="horaAlarma2">6:00 a.m.</string>
+    <string name="textoAlarma2">Buen dia, vie. sab. dom.</string>
+
+    <string name="recordatorios">Recordatorios</string>
+
+    <string name="cronometro">Cronómetro</string>
+    <string name="cronometro1">00:00,00</string>
+    <string name="temporizador">Temporizador</string>
+
+</resources>
