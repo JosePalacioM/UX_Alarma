@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"></string>
+    <string name="app_name">Alarma con recordatorios</string>
     <string name="app_name2">ALARMA CON RECORDATORIOS</string>
     <string name="mail">  Correo</string>
     <string name="password">  Contraseña</string>
@@ -20,9 +20,16 @@
     <string name="textoAlarma2">Buen dia, vie. sab. dom.</string>
 
     <string name="recordatorios">Recordatorios</string>
+    <string name="recordatorio1">Pausa activa</string>
+    <string name="recordatorioTexto1">2:00 p.m. mar23, 2023. Semanalmente</string>
 
     <string name="cronometro">Cronómetro</string>
     <string name="cronometro1">00:00,00</string>
     <string name="temporizador">Temporizador</string>
+
+    <string name="configAlarma">Configurar alarma</string>
+    <string name="textoAlarma">6:00 p.m.</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="configRecordatorio">Configurar Recordatorio</string>
 
 </resources>

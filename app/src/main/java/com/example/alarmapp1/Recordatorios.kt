@@ -28,5 +28,11 @@ class Recordatorios : AppCompatActivity() {
             val intent = Intent(this, Temporizador::class.java)
             startActivity(intent)
         }
+
+        val image_view4 = findViewById<ImageView>(R.id.imgCrear)
+        image_view4.setOnClickListener {
+            val intent = Intent(this, ConfigRecordatorio::class.java)
+            startActivity(intent)
+        }
     }
 }
